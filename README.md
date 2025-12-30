@@ -1,7 +1,7 @@
 # 🌸 Iris Flower Classification using Logistic Regression
 
 This project classifies the species of Iris flowers into three categories:
-**Setosa, Versicolor, and Virginica** using a Logistic Regression machine learning model.
+**Setosa, Versicolor, and Virginica** using a Logistic Regression model from Scikit-Learn.
 
 ---
 
@@ -11,41 +11,42 @@ This project classifies the species of Iris flowers into three categories:
 - **Model:** Logistic Regression  
 - **Dataset:** Iris dataset from Scikit-Learn
 
-This is a classic multi-class classification ML project.
+This is a classic multi-class machine learning project demonstrating classification.
 
 ---
 
 ## 🧠 Tech Stack
 | Library / Tool | Purpose |
 |----------------|----------|
-| Python | Programming language |
+| Python | Base language |
 | Pandas / NumPy | Data handling |
-| Scikit-Learn | Model training & evaluation |
-| Matplotlib | Visualization |
+| Scikit-Learn | Machine Learning modeling |
+| Matplotlib | Data visualization (if included) |
 
 ---
 
 ## 📌 Workflow (Step-by-Step)
-1. Load the Iris dataset from scikit-learn  
-2. Prepare features (X) and labels (y)  
-3. Train-test split  
+1. Load the Iris dataset from Scikit-Learn  
+2. Prepare feature data (`X`) and labels (`y`)  
+3. Train/Test split  
 4. Train Logistic Regression model  
 5. Evaluate model accuracy  
-6. Test with sample inputs
+6. Test model with sample inputs
 
 ---
 
 ## 🎯 Results
-- **Model Accuracy:** ~95%–100%  
-- **Sample Output:**
+- **Model Accuracy:** ~95% – 100%  
+- **Sample Prediction Output:**  
 
---
+
+---
 
 ## 🚀 How to Run
 1. Clone this repository  
 2. Open `iris_flower_classification.ipynb` in **Jupyter Notebook** or **Google Colab**  
-3. Run all cells from top to bottom  
-4. Change test sample values to try new predictions
+3. Run all cells in order  
+4. Change sample values to test new predictions
 
 ---
 
@@ -53,25 +54,22 @@ This is a classic multi-class classification ML project.
 ML-Iris-Flower-Classification/
 │
 ├── iris_flower_classification.ipynb # Main notebook
-└── README.md # Documentation
-
-yaml
-Copy code
+└── README.md # Project documentation
 
 ---
 
 ## 💡 Use Cases
-- Demonstrates **multi-class classification**
-- Good beginner project for ML interview
-- Explains how Logistic Regression works on real dataset
+- Demonstrates multi-class classification  
+- Good beginner ML interview project  
+- Highlights Logistic Regression usage
 
 ---
 
 ## 🧠 Learning Outcomes
-- Train-test split
-- Multi-class modeling
-- Model evaluation & prediction
-- Supervised ML pipeline
+- Train-test split understanding  
+- Multi-class classification  
+- Model evaluation & prediction  
+- Supervised machine learning fundamentals
 
 ---
 
@@ -80,4 +78,4 @@ GitHub: https://github.com/Imrizxyz
 
 ---
 
-⭐ If you found this project useful, please **star ⭐ this repository!**
+⭐ If you find this project helpful, please star ⭐ this repo!
